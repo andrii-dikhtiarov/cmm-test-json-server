@@ -1,0 +1,67 @@
+{
+  "items": [
+    { "id": 1, "creatorName": "Jon Doe", "itemName": "Cool Installation", "price": 100,
+      "image": "https://i.pinimg.com/736x/97/b2/81/97b28139b3297a0a8ff5f3934e4a780f.jpg",
+      "collectionName": "Cool ART",
+      "itemLink": "https://itemdetailedinfolanding.xyz/",
+      "tags": ["Art", "Sky", "Rainbow"],
+      "description": "Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item. Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item. Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item."
+    },
+    { "id": 2, "creatorName": "Bill Nile", "itemName": "Random Art", "price": 300,
+      "image": "https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/2/stay-cool-balazs-solti.jpg",
+      "collectionName": "Cool Animals",
+      "itemLink": "https://itemdetailedinfolanding.xyz/",
+      "tags": ["Panda", "Art", "Cool", "Animals"],
+      "description": "Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item. Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item. Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item."
+    },
+    { "id": 3, "creatorName": "Mike T", "itemName": "The Art", "price": 5000,
+      "image": "https://pbs.twimg.com/profile_images/994231503033790466/D9xhVd_t_400x400.jpg",
+      "collectionName": "Cool Animals",
+      "itemLink": "https://itemdetailedinfolanding.xyz/",
+      "tags": ["Big Cats", "Colorful", "Animals"],
+      "description": "Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item. Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item. Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item."
+    },
+    { "id": 4, "creatorName": "David Devidson", "itemName": "Caterpillar", "price": 7000,
+      "image": "https://cdn1.tedsby.com/tb/large/storage/2/3/2/232409/cute-handmade-caterpillar-by-yulia-leonovich.jpg",
+      "collectionName": "Cute Animals",
+      "itemLink": "https://itemdetailedinfolanding.xyz/",
+      "tags": ["Caterpillars", "Cute", "Animals"],
+      "description": "Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item. Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item. Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item."
+    },
+    { "id": 5, "creatorName": "Mike Jonson", "itemName": "Cool Cat", "price": 1223,
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/98880a65948559.5b05916bdc9e3.jpg",
+      "collectionName": "Cool Cats",
+      "itemLink": "https://itemdetailedinfolanding.xyz/",
+      "tags": ["Cats", "Cool Cats", "Animals"],
+      "description": "Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item. Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item. Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item."
+    },
+    { "id": 6, "creatorName": "Mike Jonson", "itemName": "Cool Cat rainbow", "price": 1223,
+      "image": "https://wallpaperaccess.com/full/82956.jpg",
+      "collectionName": "Cool Cats",
+      "itemLink": "https://itemdetailedinfolanding.xyz/",
+      "tags": ["Cats", "Cool Cats", "Animals"],
+      "description": "Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item. Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item. Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item."
+    },
+    { "id": 7, "creatorName": "Bill Nile", "itemName": "The Cat", "price": 999,
+      "image": "https://c.tenor.com/8r-Gk4kA0f4AAAAd/cool-cat.gif",
+      "collectionName": "Cool Cats",
+      "itemLink": "https://itemdetailedinfolanding.xyz/",
+      "tags": ["Cats", "Cool Cats", "Animals"],
+      "description": "Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item. Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item. Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item."
+    },
+    { "id": 8, "creatorName": "Jon Doe", "itemName": "Waterfall", "price": 789,
+      "image": "https://travel.home.sndimg.com/content/dam/images/travel/fullset/2012/08/20/70/waterfall-wonders_ss_001.rend.hgtvcom.966.725.suffix/1491581026366.jpeg",
+      "collectionName": "Nature",
+      "itemLink": "https://itemdetailedinfolanding.xyz/",
+      "tags": ["Nature", "Waterfall", "Beautiful"],
+      "description": "Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item. Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item. Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item."
+    },
+    { "id": 9, "creatorName": "Jon Doe", "itemName": "Empire State", "price": 99999,
+      "image": "https://afisha.nyc/wp-content/uploads/2018/09/empire-state-building-sunset-four-1920x1080.jpg",
+      "collectionName": "Famous Buildings",
+      "itemLink": "https://itemdetailedinfolanding.xyz/",
+      "tags": ["Buildings", "Famous", "City"],
+      "description": "Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item. Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item. Here you can see a text description of NFT item, that is posted in Marketplace. It is editable by owner of an item."
+    }
+  ]
+}
